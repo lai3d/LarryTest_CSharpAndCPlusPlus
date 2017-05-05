@@ -1,0 +1,6 @@
+C:\Develop\LarryTest\00_Test_Linked​List\bin\Debug\_00_Test_Linked​List.exe.config
+C:\Develop\LarryTest\00_Test_Linked​List\bin\Debug\_00_Test_Linked​List.exe
+C:\Develop\LarryTest\00_Test_Linked​List\bin\Debug\_00_Test_Linked​List.pdb
+C:\Develop\LarryTest\00_Test_Linked​List\obj\Debug\00_Test_Linked​List.csprojResolveAssemblyReference.cache
+C:\Develop\LarryTest\00_Test_Linked​List\obj\Debug\_00_Test_Linked​List.exe
+C:\Develop\LarryTest\00_Test_Linked​List\obj\Debug\_00_Test_Linked​List.pdb

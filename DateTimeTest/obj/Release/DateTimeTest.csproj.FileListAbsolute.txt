@@ -1,0 +1,8 @@
+C:\Develop\LarryTest\DateTimeTest\bin\Release\DateTimeTest.exe.config
+C:\Develop\LarryTest\DateTimeTest\bin\Release\DateTimeTest.exe
+C:\Develop\LarryTest\DateTimeTest\bin\Release\DateTimeTest.pdb
+C:\Develop\LarryTest\DateTimeTest\obj\Release\DateTimeTest.Form1.resources
+C:\Develop\LarryTest\DateTimeTest\obj\Release\DateTimeTest.Properties.Resources.resources
+C:\Develop\LarryTest\DateTimeTest\obj\Release\DateTimeTest.csproj.GenerateResource.Cache
+C:\Develop\LarryTest\DateTimeTest\obj\Release\DateTimeTest.exe
+C:\Develop\LarryTest\DateTimeTest\obj\Release\DateTimeTest.pdb

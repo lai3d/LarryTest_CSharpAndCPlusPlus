@@ -1,0 +1,6 @@
+C:\Develop\LarryTest\01_Test_Object_Finalize\obj\Debug\01_Test_Object_Finalize.csprojResolveAssemblyReference.cache
+C:\Develop\LarryTest\01_Test_Object_Finalize\bin\Debug\01_Test_Object_Finalize.exe.config
+C:\Develop\LarryTest\01_Test_Object_Finalize\bin\Debug\01_Test_Object_Finalize.exe
+C:\Develop\LarryTest\01_Test_Object_Finalize\bin\Debug\01_Test_Object_Finalize.pdb
+C:\Develop\LarryTest\01_Test_Object_Finalize\obj\Debug\01_Test_Object_Finalize.exe
+C:\Develop\LarryTest\01_Test_Object_Finalize\obj\Debug\01_Test_Object_Finalize.pdb
