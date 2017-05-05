@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Extentions", "07_Extenti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_OracleDataAccess", "08_OracleDataAccess\08_OracleDataAccess.csproj", "{85F93B83-17BE-495E-97B0-49CF8E2E675D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Object", "09_Object\09_Object.csproj", "{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,18 @@ Global
 		{85F93B83-17BE-495E-97B0-49CF8E2E675D}.Release|x64.Build.0 = Release|Any CPU
 		{85F93B83-17BE-495E-97B0-49CF8E2E675D}.Release|x86.ActiveCfg = Release|Any CPU
 		{85F93B83-17BE-495E-97B0-49CF8E2E675D}.Release|x86.Build.0 = Release|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Debug|x64.Build.0 = Debug|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Debug|x86.Build.0 = Debug|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Release|x64.ActiveCfg = Release|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Release|x64.Build.0 = Release|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Release|x86.ActiveCfg = Release|Any CPU
+		{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
