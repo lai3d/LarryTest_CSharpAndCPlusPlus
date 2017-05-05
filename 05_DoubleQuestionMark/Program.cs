@@ -15,6 +15,13 @@ namespace _05_DoubleQuestionMark
     {
         static void Main(string[] args)
         {
+            object ALarry = null;
+            object BLarry = null;
+            object CLarry = new object();
+
+            BLarry = ALarry ?? CLarry;
+
+            //========
             var A = new object();
             var B = new object();
 
