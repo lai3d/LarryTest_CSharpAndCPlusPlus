@@ -1,0 +1,13 @@
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\08_OracleDataAccess.exe.config
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\08_OracleDataAccess.exe
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\08_OracleDataAccess.pdb
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\EntityFramework.dll
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\Oracle.DataAccess.dll
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\EntityFramework.xml
+C:\Develop\LarryTest\08_OracleDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\LarryTest\08_OracleDataAccess\obj\Debug\08_OracleDataAccess.csprojResolveAssemblyReference.cache
+C:\Develop\LarryTest\08_OracleDataAccess\obj\Debug\08_OracleDataAccess.exe
+C:\Develop\LarryTest\08_OracleDataAccess\obj\Debug\08_OracleDataAccess.pdb
