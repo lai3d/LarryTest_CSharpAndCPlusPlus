@@ -4,6 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/**
+ * If you do implement extension methods for a given type, remember the followingpoints:
+ * 
+1. An extension method will never be called if it has the same signature as a method defined in the type.
+
+2. Extension methods are brought into scope at the namespace level. 
+    For example, if you have multiple static classes that contain extension methods in a single namespace named Extensions, 
+    they will all be brought into scope by the using Extensions; directive.
+ */
 
 /// <summary>
 /// Extension Methods (C# Programming Guide)
@@ -45,3 +54,5 @@ namespace ExtensionMethods
         }
     }
 }
+
+
