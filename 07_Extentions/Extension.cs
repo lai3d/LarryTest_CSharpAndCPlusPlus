@@ -23,7 +23,7 @@ namespace _07_Extentions
 {
     using ExtensionMethods;
 
-    class Program
+    class Extension
     {
         static void Main(string[] args)
         {

@@ -19,13 +19,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_DoubleQuestionMark", "05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Log4net", "06_Log4net\06_Log4net.csproj", "{0819588A-36E4-48E0-A73D-C1FA613BCF02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Extentions", "07_Extentions\07_Extentions.csproj", "{C7280A8B-25C9-4751-95AE-81FB4F61AF78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Extension_1", "07_Extentions\07_Extension_1.csproj", "{C7280A8B-25C9-4751-95AE-81FB4F61AF78}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_OracleDataAccess", "08_OracleDataAccess\08_OracleDataAccess.csproj", "{85F93B83-17BE-495E-97B0-49CF8E2E675D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Object", "09_Object\09_Object.csproj", "{2D6DC5C9-2FE0-4702-9E75-62238ABFD003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Extension_2", "10_Extension_2\10_Extension_2.csproj", "{E0EBE74A-FC43-40B1-B930-2BD0B988C3DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Extension_2", "10_Extension_2\07_Extension_2.csproj", "{E0EBE74A-FC43-40B1-B930-2BD0B988C3DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
