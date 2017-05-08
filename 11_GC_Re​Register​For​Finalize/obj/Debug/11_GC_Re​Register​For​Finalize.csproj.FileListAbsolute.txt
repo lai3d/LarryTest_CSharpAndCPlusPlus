@@ -1,0 +1,6 @@
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Debug\_11_GC_Re​Register​For​Finalize.exe.config
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Debug\_11_GC_Re​Register​For​Finalize.exe
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Debug\_11_GC_Re​Register​For​Finalize.pdb
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\obj\Debug\11_GC_Re​Register​For​Finalize.csprojResolveAssemblyReference.cache
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\obj\Debug\_11_GC_Re​Register​For​Finalize.exe
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\obj\Debug\_11_GC_Re​Register​For​Finalize.pdb
