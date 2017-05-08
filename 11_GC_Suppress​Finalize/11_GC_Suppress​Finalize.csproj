@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{58159278-1734-4978-BCD2-8AFC12282F0A}</ProjectGuid>
+    <ProjectGuid>{5AF53369-6D4E-4186-852E-26B379DA7FFC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01_Test_Object_Finalize</RootNamespace>
-    <AssemblyName>01_Test_Object_Finalize</AssemblyName>
+    <RootNamespace>_11_GC_Suppress_Finalize</RootNamespace>
+    <AssemblyName>_11_GC_Suppress​Finalize</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ObjectFinalize.cs" />
+    <Compile Include="GCExample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

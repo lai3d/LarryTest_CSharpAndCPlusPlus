@@ -1,0 +1,5 @@
+C:\Develop\LarryTest\11_GC_Suppress​Finalize\bin\Debug\_11_GC_Suppress​Finalize.exe.config
+C:\Develop\LarryTest\11_GC_Suppress​Finalize\bin\Debug\_11_GC_Suppress​Finalize.exe
+C:\Develop\LarryTest\11_GC_Suppress​Finalize\bin\Debug\_11_GC_Suppress​Finalize.pdb
+C:\Develop\LarryTest\11_GC_Suppress​Finalize\obj\Debug\_11_GC_Suppress​Finalize.exe
+C:\Develop\LarryTest\11_GC_Suppress​Finalize\obj\Debug\_11_GC_Suppress​Finalize.pdb

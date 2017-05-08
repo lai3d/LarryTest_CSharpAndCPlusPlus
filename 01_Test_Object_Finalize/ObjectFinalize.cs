@@ -36,7 +36,7 @@ namespace _01_Test_Object_Finalize
         }
     }
 
-    class Program
+    class ObjectFinalize
     {
         static void Main(string[] args)
         {

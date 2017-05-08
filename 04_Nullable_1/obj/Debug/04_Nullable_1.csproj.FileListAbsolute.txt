@@ -1,0 +1,6 @@
+C:\Develop\LarryTest\04_Nullable_1\bin\Debug\04_Nullable_1.exe.config
+C:\Develop\LarryTest\04_Nullable_1\bin\Debug\04_Nullable_1.exe
+C:\Develop\LarryTest\04_Nullable_1\bin\Debug\04_Nullable_1.pdb
+C:\Develop\LarryTest\04_Nullable_1\obj\Debug\04_Nullable_1.exe
+C:\Develop\LarryTest\04_Nullable_1\obj\Debug\04_Nullable_1.pdb
+C:\Develop\LarryTest\04_Nullable_1\obj\Debug\04_Nullable_1.csprojResolveAssemblyReference.cache

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _04_Nullable
 {
-    class Program
+    class Nullable
     {
         public class Example
         {
@@ -23,7 +23,7 @@ namespace _04_Nullable
             MethodInfo mi = t.GetMethod("MyMethod");
             Type retval = mi.ReturnType;
             Console.WriteLine("Return value type ... {0}", retval);
-            Type answer = Nullable.GetUnderlyingType(retval);
+            Type answer = System.Nullable.GetUnderlyingType(retval);
             Console.WriteLine("Underlying type ..... {0}", answer);
 
             /**

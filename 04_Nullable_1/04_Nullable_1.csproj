@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{58159278-1734-4978-BCD2-8AFC12282F0A}</ProjectGuid>
+    <ProjectGuid>{2B97A267-AEA5-48FB-827C-32AF41224DD2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01_Test_Object_Finalize</RootNamespace>
-    <AssemblyName>01_Test_Object_Finalize</AssemblyName>
+    <RootNamespace>_04_Nullable_1</RootNamespace>
+    <AssemblyName>04_Nullable_1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ObjectFinalize.cs" />
+    <Compile Include="Nullable_1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
