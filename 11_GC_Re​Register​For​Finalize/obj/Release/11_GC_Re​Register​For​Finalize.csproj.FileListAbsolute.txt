@@ -1,0 +1,5 @@
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Release\_11_GC_Re​Register​For​Finalize.exe.config
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Release\_11_GC_Re​Register​For​Finalize.exe
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Release\_11_GC_Re​Register​For​Finalize.pdb
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\obj\Release\_11_GC_Re​Register​For​Finalize.exe
+C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\obj\Release\_11_GC_Re​Register​For​Finalize.pdb

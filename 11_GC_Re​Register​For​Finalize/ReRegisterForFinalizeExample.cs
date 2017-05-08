@@ -48,12 +48,22 @@ namespace ReRegisterForFinalizeExample
 
             Console.WriteLine("After second GC Collect!");
         }
-        /**
+        /**           Different between debug and release
+         * 
          C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Debug>_11_GC_Re​Register​For​Finalize.exe
             After null assigned!
             After first GC Collect!
             After null assigned to currentInstance!
             First finalization
+            After second GC Collect!
+            Second finalization
+
+
+        C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Release>_11_GC_Re​Register​For​Finalize.exe
+            After null assigned!
+            After first GC Collect!
+            First finalization
+            After null assigned to currentInstance!
             After second GC Collect!
             Second finalization
         */
