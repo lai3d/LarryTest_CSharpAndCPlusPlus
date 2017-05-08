@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_IDisposable", "10_IDispo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_GC_Suppress​Finalize", "11_GC_Suppress​Finalize\11_GC_Suppress​Finalize.csproj", "{5AF53369-6D4E-4186-852E-26B379DA7FFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_GarbageCollection", "12_GarbageCollection\12_GarbageCollection.csproj", "{1122CABF-F075-4C45-9477-0C7C24C8A433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,6 +223,18 @@ Global
 		{5AF53369-6D4E-4186-852E-26B379DA7FFC}.Release|x64.Build.0 = Release|Any CPU
 		{5AF53369-6D4E-4186-852E-26B379DA7FFC}.Release|x86.ActiveCfg = Release|Any CPU
 		{5AF53369-6D4E-4186-852E-26B379DA7FFC}.Release|x86.Build.0 = Release|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Debug|x64.Build.0 = Debug|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Debug|x86.Build.0 = Debug|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Release|x64.ActiveCfg = Release|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Release|x64.Build.0 = Release|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Release|x86.ActiveCfg = Release|Any CPU
+		{1122CABF-F075-4C45-9477-0C7C24C8A433}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
