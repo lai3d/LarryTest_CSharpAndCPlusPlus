@@ -1,6 +1,0 @@
-C:\Develop\LarryTest\10_IDisposable\bin\Debug\10_IDisposable.exe.config
-C:\Develop\LarryTest\10_IDisposable\bin\Debug\10_IDisposable.exe
-C:\Develop\LarryTest\10_IDisposable\bin\Debug\10_IDisposable.pdb
-C:\Develop\LarryTest\10_IDisposable\obj\Debug\10_IDisposable.exe
-C:\Develop\LarryTest\10_IDisposable\obj\Debug\10_IDisposable.pdb
-C:\Develop\LarryTest\10_IDisposable\obj\Debug\10_IDisposable.csprojResolveAssemblyReference.cache

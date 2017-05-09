@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPlusPlus_00_NULL", "Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Miscellaneous", "ConsoleApp1\02_Miscellaneous.csproj", "{31201F74-5ADD-407B-9CC7-8BC2D9463EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Linked​List", "00_Test_Linked​List\00_Linked​List.csproj", "{17B7B432-F707-4A94-A36F-9A6BDE18ED52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Collections_Linked​List", "00_Test_Linked​List\00_Collections_Linked​List.csproj", "{17B7B432-F707-4A94-A36F-9A6BDE18ED52}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Object_Finalize", "01_Test_Object_Finalize\01_Object_Finalize.csproj", "{58159278-1734-4978-BCD2-8AFC12282F0A}"
 EndProject
@@ -36,6 +36,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_GarbageCollection", "12_GarbageCollection\12_GarbageCollection.csproj", "{1122CABF-F075-4C45-9477-0C7C24C8A433}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_GC_Re​Register​For​Finalize", "11_GC_Re​Register​For​Finalize\11_GC_Re​Register​For​Finalize.csproj", "{26FCCC59-DA59-498D-AC3F-153D24C7A5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Collections_SortedSet", "13_Collections_SortedSet\00_Collections_SortedSet.csproj", "{2B7AE324-ECEA-483F-BEA2-B1711D677C82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,18 @@ Global
 		{26FCCC59-DA59-498D-AC3F-153D24C7A5F0}.Release|x64.Build.0 = Release|Any CPU
 		{26FCCC59-DA59-498D-AC3F-153D24C7A5F0}.Release|x86.ActiveCfg = Release|Any CPU
 		{26FCCC59-DA59-498D-AC3F-153D24C7A5F0}.Release|x86.Build.0 = Release|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Debug|x64.Build.0 = Debug|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Debug|x86.Build.0 = Debug|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Release|x64.ActiveCfg = Release|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Release|x64.Build.0 = Release|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Release|x86.ActiveCfg = Release|Any CPU
+		{2B7AE324-ECEA-483F-BEA2-B1711D677C82}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

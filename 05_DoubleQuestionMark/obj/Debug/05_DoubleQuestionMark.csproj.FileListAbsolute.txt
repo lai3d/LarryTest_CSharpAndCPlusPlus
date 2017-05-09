@@ -1,8 +1,0 @@
-C:\Develop\LarryTest\05_DoubleQuestionMark\bin\Debug\05_DoubleQuestionMark.exe.config
-C:\Develop\LarryTest\05_DoubleQuestionMark\bin\Debug\05_DoubleQuestionMark.exe
-C:\Develop\LarryTest\05_DoubleQuestionMark\bin\Debug\05_DoubleQuestionMark.pdb
-C:\Develop\LarryTest\05_DoubleQuestionMark\obj\Debug\05_DoubleQuestionMark.csprojResolveAssemblyReference.cache
-C:\Develop\LarryTest\05_DoubleQuestionMark\obj\Debug\05_DoubleQuestionMark.exe
-C:\Develop\LarryTest\05_DoubleQuestionMark\obj\Debug\05_DoubleQuestionMark.pdb
-C:\Develop\LarryTest\05_DoubleQuestionMark\bin\Debug\LINQPad.exe
-C:\Develop\LarryTest\05_DoubleQuestionMark\bin\Debug\LINQPad.exe.config

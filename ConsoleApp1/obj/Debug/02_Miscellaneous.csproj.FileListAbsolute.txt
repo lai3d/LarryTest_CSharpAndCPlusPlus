@@ -1,6 +1,0 @@
-C:\Develop\LarryTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Develop\LarryTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Develop\LarryTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Develop\LarryTest\ConsoleApp1\obj\Debug\02_Miscellaneous.csprojResolveAssemblyReference.cache
-C:\Develop\LarryTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Develop\LarryTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
