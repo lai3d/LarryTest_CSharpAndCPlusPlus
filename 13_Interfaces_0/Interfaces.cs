@@ -182,7 +182,7 @@ namespace _13_Interfaces_0
         }
     }
 
-    class Program
+    class Interfaces
     {
         static void Main(string[] args)
         {
