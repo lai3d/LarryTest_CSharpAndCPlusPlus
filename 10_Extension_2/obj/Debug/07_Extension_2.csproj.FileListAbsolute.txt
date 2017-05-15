@@ -1,0 +1,5 @@
+C:\Develop\LarryTest\10_Extension_2\bin\Debug\10_Extension_2.exe.config
+C:\Develop\LarryTest\10_Extension_2\bin\Debug\10_Extension_2.exe
+C:\Develop\LarryTest\10_Extension_2\bin\Debug\10_Extension_2.pdb
+C:\Develop\LarryTest\10_Extension_2\obj\Debug\10_Extension_2.exe
+C:\Develop\LarryTest\10_Extension_2\obj\Debug\10_Extension_2.pdb

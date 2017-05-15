@@ -1,0 +1,6 @@
+C:\Develop\LarryTest\07_Extentions\bin\Debug\07_Extentions.exe.config
+C:\Develop\LarryTest\07_Extentions\bin\Debug\07_Extentions.exe
+C:\Develop\LarryTest\07_Extentions\bin\Debug\07_Extentions.pdb
+C:\Develop\LarryTest\07_Extentions\obj\Debug\07_Extension_1.csprojResolveAssemblyReference.cache
+C:\Develop\LarryTest\07_Extentions\obj\Debug\07_Extentions.exe
+C:\Develop\LarryTest\07_Extentions\obj\Debug\07_Extentions.pdb

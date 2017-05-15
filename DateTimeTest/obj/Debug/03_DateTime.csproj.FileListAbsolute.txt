@@ -1,0 +1,9 @@
+C:\Develop\LarryTest\DateTimeTest\bin\Debug\DateTimeTest.exe.config
+C:\Develop\LarryTest\DateTimeTest\bin\Debug\DateTimeTest.exe
+C:\Develop\LarryTest\DateTimeTest\bin\Debug\DateTimeTest.pdb
+C:\Develop\LarryTest\DateTimeTest\obj\Debug\03_DateTime.csprojResolveAssemblyReference.cache
+C:\Develop\LarryTest\DateTimeTest\obj\Debug\DateTimeTest.Form1.resources
+C:\Develop\LarryTest\DateTimeTest\obj\Debug\DateTimeTest.Properties.Resources.resources
+C:\Develop\LarryTest\DateTimeTest\obj\Debug\03_DateTime.csproj.GenerateResource.Cache
+C:\Develop\LarryTest\DateTimeTest\obj\Debug\DateTimeTest.exe
+C:\Develop\LarryTest\DateTimeTest\obj\Debug\DateTimeTest.pdb

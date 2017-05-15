@@ -1,0 +1,5 @@
+C:\Develop\LarryTest\09_Object\bin\Debug\09_Object.exe.config
+C:\Develop\LarryTest\09_Object\bin\Debug\09_Object.exe
+C:\Develop\LarryTest\09_Object\bin\Debug\09_Object.pdb
+C:\Develop\LarryTest\09_Object\obj\Debug\09_Object.exe
+C:\Develop\LarryTest\09_Object\obj\Debug\09_Object.pdb

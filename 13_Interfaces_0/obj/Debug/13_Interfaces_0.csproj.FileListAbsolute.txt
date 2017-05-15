@@ -1,0 +1,5 @@
+C:\Develop\LarryTest\13_Interfaces_0\bin\Debug\13_Interfaces_0.exe.config
+C:\Develop\LarryTest\13_Interfaces_0\bin\Debug\13_Interfaces_0.exe
+C:\Develop\LarryTest\13_Interfaces_0\bin\Debug\13_Interfaces_0.pdb
+C:\Develop\LarryTest\13_Interfaces_0\obj\Debug\13_Interfaces_0.exe
+C:\Develop\LarryTest\13_Interfaces_0\obj\Debug\13_Interfaces_0.pdb
