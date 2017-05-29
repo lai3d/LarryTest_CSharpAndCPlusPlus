@@ -1,0 +1,6 @@
+C:\Develop\LarryTest\14_String\bin\Debug\14_String.exe.config
+C:\Develop\LarryTest\14_String\bin\Debug\14_String.exe
+C:\Develop\LarryTest\14_String\bin\Debug\14_String.pdb
+C:\Develop\LarryTest\14_String\obj\Debug\14_String.csprojResolveAssemblyReference.cache
+C:\Develop\LarryTest\14_String\obj\Debug\14_String.exe
+C:\Develop\LarryTest\14_String\obj\Debug\14_String.pdb
