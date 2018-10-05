@@ -4,3 +4,10 @@ C:\Develop\LarryTest\04_Nullable\bin\Debug\04_Nullable.pdb
 C:\Develop\LarryTest\04_Nullable\obj\Debug\04_Nullable.csprojResolveAssemblyReference.cache
 C:\Develop\LarryTest\04_Nullable\obj\Debug\04_Nullable.exe
 C:\Develop\LarryTest\04_Nullable\obj\Debug\04_Nullable.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\04_Nullable\bin\Debug\04_Nullable.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\04_Nullable\bin\Debug\04_Nullable.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\04_Nullable\bin\Debug\04_Nullable.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\04_Nullable\obj\Debug\04_Nullable.csprojAssemblyReference.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\04_Nullable\obj\Debug\04_Nullable.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\04_Nullable\obj\Debug\04_Nullable.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\04_Nullable\obj\Debug\04_Nullable.pdb

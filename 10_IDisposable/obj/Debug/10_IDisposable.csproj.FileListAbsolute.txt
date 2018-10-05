@@ -3,3 +3,9 @@ C:\Develop\LarryTest\10_IDisposable\bin\Debug\10_IDisposable.exe
 C:\Develop\LarryTest\10_IDisposable\bin\Debug\10_IDisposable.pdb
 C:\Develop\LarryTest\10_IDisposable\obj\Debug\10_IDisposable.exe
 C:\Develop\LarryTest\10_IDisposable\obj\Debug\10_IDisposable.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_IDisposable\bin\Debug\10_IDisposable.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_IDisposable\bin\Debug\10_IDisposable.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_IDisposable\bin\Debug\10_IDisposable.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_IDisposable\obj\Debug\10_IDisposable.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_IDisposable\obj\Debug\10_IDisposable.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_IDisposable\obj\Debug\10_IDisposable.pdb

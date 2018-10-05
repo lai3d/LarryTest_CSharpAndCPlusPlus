@@ -3,3 +3,9 @@ C:\Develop\LarryTest\09_Object\bin\Debug\09_Object.exe
 C:\Develop\LarryTest\09_Object\bin\Debug\09_Object.pdb
 C:\Develop\LarryTest\09_Object\obj\Debug\09_Object.exe
 C:\Develop\LarryTest\09_Object\obj\Debug\09_Object.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\09_Object\bin\Debug\09_Object.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\09_Object\bin\Debug\09_Object.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\09_Object\bin\Debug\09_Object.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\09_Object\obj\Debug\09_Object.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\09_Object\obj\Debug\09_Object.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\09_Object\obj\Debug\09_Object.pdb

@@ -3,3 +3,9 @@ C:\Develop\LarryTest\13_Collections_SortedSet\bin\Debug\13_Collections_SortedSet
 C:\Develop\LarryTest\13_Collections_SortedSet\bin\Debug\13_Collections_SortedSet.pdb
 C:\Develop\LarryTest\13_Collections_SortedSet\obj\Debug\13_Collections_SortedSet.exe
 C:\Develop\LarryTest\13_Collections_SortedSet\obj\Debug\13_Collections_SortedSet.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Collections_SortedSet\bin\Debug\13_Collections_SortedSet.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Collections_SortedSet\bin\Debug\13_Collections_SortedSet.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Collections_SortedSet\bin\Debug\13_Collections_SortedSet.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Collections_SortedSet\obj\Debug\00_Collections_SortedSet.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Collections_SortedSet\obj\Debug\13_Collections_SortedSet.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Collections_SortedSet\obj\Debug\13_Collections_SortedSet.pdb

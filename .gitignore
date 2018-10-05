@@ -7,3 +7,14 @@ DateTimeTest/bin/Debug/
 17_Array_Sort/bin/
 17_Array_Sort/obj/Debug/
 *.cache
+*.exe
+*.pdb
+*.log
+*.user
+*.filters
+*.idb
+*.obj
+*.tlog
+*.pch
+*.CopyComplete
+*.ilk

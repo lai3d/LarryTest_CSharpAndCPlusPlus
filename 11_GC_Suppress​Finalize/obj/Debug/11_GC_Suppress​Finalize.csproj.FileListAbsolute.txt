@@ -3,3 +3,9 @@ C:\Develop\LarryTest\11_GC_Suppress​Finalize\bin\Debug\_11_GC_Suppress​Final
 C:\Develop\LarryTest\11_GC_Suppress​Finalize\bin\Debug\_11_GC_Suppress​Finalize.pdb
 C:\Develop\LarryTest\11_GC_Suppress​Finalize\obj\Debug\_11_GC_Suppress​Finalize.exe
 C:\Develop\LarryTest\11_GC_Suppress​Finalize\obj\Debug\_11_GC_Suppress​Finalize.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Suppress​Finalize\bin\Debug\_11_GC_Suppress​Finalize.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Suppress​Finalize\bin\Debug\_11_GC_Suppress​Finalize.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Suppress​Finalize\bin\Debug\_11_GC_Suppress​Finalize.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Suppress​Finalize\obj\Debug\11_GC_Suppress​Finalize.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Suppress​Finalize\obj\Debug\_11_GC_Suppress​Finalize.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Suppress​Finalize\obj\Debug\_11_GC_Suppress​Finalize.pdb

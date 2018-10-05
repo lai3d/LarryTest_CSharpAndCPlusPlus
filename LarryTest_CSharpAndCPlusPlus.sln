@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Attribute_Custom", "16_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_Array_Sort", "17_Array_Sort\17_Array_Sort.csproj", "{B8D24638-5708-4C4A-8966-3DD41527DBBA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPlusPlus_01_SteamBasedIO", "CPlusPlus_01_SteamBasedIO\CPlusPlus_01_SteamBasedIO.vcxproj", "{49EA9E6D-37C5-40F0-A1C6-306A69566589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,8 +335,21 @@ Global
 		{B8D24638-5708-4C4A-8966-3DD41527DBBA}.Release|x64.Build.0 = Release|Any CPU
 		{B8D24638-5708-4C4A-8966-3DD41527DBBA}.Release|x86.ActiveCfg = Release|Any CPU
 		{B8D24638-5708-4C4A-8966-3DD41527DBBA}.Release|x86.Build.0 = Release|Any CPU
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Debug|x64.ActiveCfg = Debug|x64
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Debug|x64.Build.0 = Debug|x64
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Debug|x86.ActiveCfg = Debug|Win32
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Debug|x86.Build.0 = Debug|Win32
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Release|Any CPU.ActiveCfg = Release|Win32
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Release|x64.ActiveCfg = Release|x64
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Release|x64.Build.0 = Release|x64
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Release|x86.ActiveCfg = Release|Win32
+		{49EA9E6D-37C5-40F0-A1C6-306A69566589}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A217F1-A126-4AA4-92F7-BF74BC4FD1A1}
 	EndGlobalSection
 EndGlobal

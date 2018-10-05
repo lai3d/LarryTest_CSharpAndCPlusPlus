@@ -3,3 +3,9 @@ C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Debug\_11_GC_Re​
 C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\bin\Debug\_11_GC_Re​Register​For​Finalize.pdb
 C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\obj\Debug\_11_GC_Re​Register​For​Finalize.exe
 C:\Develop\LarryTest\11_GC_Re​Register​For​Finalize\obj\Debug\_11_GC_Re​Register​For​Finalize.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Re​Register​For​Finalize\bin\Debug\_11_GC_Re​Register​For​Finalize.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Re​Register​For​Finalize\bin\Debug\_11_GC_Re​Register​For​Finalize.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Re​Register​For​Finalize\bin\Debug\_11_GC_Re​Register​For​Finalize.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Re​Register​For​Finalize\obj\Debug\11_GC_Re​Register​For​Finalize.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Re​Register​For​Finalize\obj\Debug\_11_GC_Re​Register​For​Finalize.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\11_GC_Re​Register​For​Finalize\obj\Debug\_11_GC_Re​Register​For​Finalize.pdb

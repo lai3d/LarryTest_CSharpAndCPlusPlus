@@ -4,3 +4,10 @@ C:\Develop\LarryTest\01_Test_Object_Finalize\bin\Debug\01_Test_Object_Finalize.p
 C:\Develop\LarryTest\01_Test_Object_Finalize\obj\Debug\01_Object_Finalize.csprojResolveAssemblyReference.cache
 C:\Develop\LarryTest\01_Test_Object_Finalize\obj\Debug\01_Test_Object_Finalize.exe
 C:\Develop\LarryTest\01_Test_Object_Finalize\obj\Debug\01_Test_Object_Finalize.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\01_Test_Object_Finalize\bin\Debug\01_Test_Object_Finalize.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\01_Test_Object_Finalize\bin\Debug\01_Test_Object_Finalize.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\01_Test_Object_Finalize\bin\Debug\01_Test_Object_Finalize.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\01_Test_Object_Finalize\obj\Debug\01_Object_Finalize.csprojAssemblyReference.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\01_Test_Object_Finalize\obj\Debug\01_Object_Finalize.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\01_Test_Object_Finalize\obj\Debug\01_Test_Object_Finalize.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\01_Test_Object_Finalize\obj\Debug\01_Test_Object_Finalize.pdb

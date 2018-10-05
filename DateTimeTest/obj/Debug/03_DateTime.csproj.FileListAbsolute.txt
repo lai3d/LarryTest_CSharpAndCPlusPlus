@@ -7,3 +7,13 @@ C:\Develop\LarryTest\DateTimeTest\obj\Debug\DateTimeTest.Properties.Resources.re
 C:\Develop\LarryTest\DateTimeTest\obj\Debug\03_DateTime.csproj.GenerateResource.Cache
 C:\Develop\LarryTest\DateTimeTest\obj\Debug\DateTimeTest.exe
 C:\Develop\LarryTest\DateTimeTest\obj\Debug\DateTimeTest.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\bin\Debug\DateTimeTest.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\bin\Debug\DateTimeTest.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\bin\Debug\DateTimeTest.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\obj\Debug\03_DateTime.csprojAssemblyReference.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\obj\Debug\DateTimeTest.Form1.resources
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\obj\Debug\DateTimeTest.Properties.Resources.resources
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\obj\Debug\03_DateTime.csproj.GenerateResource.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\obj\Debug\03_DateTime.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\obj\Debug\DateTimeTest.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\DateTimeTest\obj\Debug\DateTimeTest.pdb

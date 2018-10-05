@@ -3,3 +3,9 @@ C:\Develop\LarryTest\12_GarbageCollection\bin\Debug\12_GarbageCollection.exe
 C:\Develop\LarryTest\12_GarbageCollection\bin\Debug\12_GarbageCollection.pdb
 C:\Develop\LarryTest\12_GarbageCollection\obj\Debug\12_GarbageCollection.exe
 C:\Develop\LarryTest\12_GarbageCollection\obj\Debug\12_GarbageCollection.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\12_GarbageCollection\bin\Debug\12_GarbageCollection.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\12_GarbageCollection\bin\Debug\12_GarbageCollection.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\12_GarbageCollection\bin\Debug\12_GarbageCollection.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\12_GarbageCollection\obj\Debug\12_GarbageCollection.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\12_GarbageCollection\obj\Debug\12_GarbageCollection.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\12_GarbageCollection\obj\Debug\12_GarbageCollection.pdb

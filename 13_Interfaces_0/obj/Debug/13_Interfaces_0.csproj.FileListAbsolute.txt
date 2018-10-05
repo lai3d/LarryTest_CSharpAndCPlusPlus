@@ -3,3 +3,9 @@ C:\Develop\LarryTest\13_Interfaces_0\bin\Debug\13_Interfaces_0.exe
 C:\Develop\LarryTest\13_Interfaces_0\bin\Debug\13_Interfaces_0.pdb
 C:\Develop\LarryTest\13_Interfaces_0\obj\Debug\13_Interfaces_0.exe
 C:\Develop\LarryTest\13_Interfaces_0\obj\Debug\13_Interfaces_0.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Interfaces_0\bin\Debug\13_Interfaces_0.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Interfaces_0\bin\Debug\13_Interfaces_0.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Interfaces_0\bin\Debug\13_Interfaces_0.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Interfaces_0\obj\Debug\13_Interfaces_0.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Interfaces_0\obj\Debug\13_Interfaces_0.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\13_Interfaces_0\obj\Debug\13_Interfaces_0.pdb

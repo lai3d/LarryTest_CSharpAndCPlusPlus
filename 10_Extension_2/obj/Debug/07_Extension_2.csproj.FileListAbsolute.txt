@@ -3,3 +3,9 @@ C:\Develop\LarryTest\10_Extension_2\bin\Debug\10_Extension_2.exe
 C:\Develop\LarryTest\10_Extension_2\bin\Debug\10_Extension_2.pdb
 C:\Develop\LarryTest\10_Extension_2\obj\Debug\10_Extension_2.exe
 C:\Develop\LarryTest\10_Extension_2\obj\Debug\10_Extension_2.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_Extension_2\bin\Debug\10_Extension_2.exe.config
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_Extension_2\bin\Debug\10_Extension_2.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_Extension_2\bin\Debug\10_Extension_2.pdb
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_Extension_2\obj\Debug\07_Extension_2.csproj.CoreCompileInputs.cache
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_Extension_2\obj\Debug\10_Extension_2.exe
+E:\Develop\LarryTest_CSharpAndCPlusPlus\10_Extension_2\obj\Debug\10_Extension_2.pdb
