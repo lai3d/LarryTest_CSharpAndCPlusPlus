@@ -18,3 +18,7 @@ DateTimeTest/bin/Debug/
 *.pch
 *.CopyComplete
 *.ilk
+18_CSharp7NewFeatures/bin/Debug/System.ValueTuple.xml
+18_CSharp7NewFeatures/bin/Debug/System.ValueTuple.dll
+18_CSharp7NewFeatures/bin/Debug/18_CSharp7NewFeatures.exe.config
+18_CSharp7NewFeatures/obj/
